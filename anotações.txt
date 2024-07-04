@@ -1,0 +1,19 @@
+sudo apt install npm
+
+npx create-expo-app Nome
+
+RODAR: npx expo start
+
+CTRL M no emulador força o Reload, no celular é só chaqualhar.
+
+
+Views
+Text
+Image
+
+Slider: tem que instalar
+Vai na documentação do expo
+
+npx expo install @react-native-community/slider
+
+por padrão o react-native tem o Flexbox instalado, então é só usar o justifyContent: "center" e alignItens: "center"
